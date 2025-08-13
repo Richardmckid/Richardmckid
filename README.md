@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Richardmckid
-- 👀 I’m interested in React, Drupal & Angular
-- 🌱 I’m currently learning Angular & Drupal 10
+- 👀 I’m interested in React, Vue, Drupal & Laravel
+- 🌱 I’m currently learning Nextjs
 - 💞️ I’m looking to collaborate on JavaScript & PHP related projects
-- 📫 How to reach me richardmckid@gmail.com
+- 📫 How to reach me richard.ditshai@gmail.com
 
 <!---
 Richardmckid/Richardmckid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
